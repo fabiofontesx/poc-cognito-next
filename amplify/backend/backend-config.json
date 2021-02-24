@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "poccognitoae056367": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
